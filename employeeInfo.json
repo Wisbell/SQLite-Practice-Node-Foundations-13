@@ -1,0 +1,10 @@
+{ "employees":
+  [
+    { "id": 1, "firstName": "Fred", "lastName": 'Smith', "jobTitle": 'Cashier', "address": '500 Somewhere Drive', "salary": 1000 },
+    { "id": 2, "firstName": 'Sarah', "lastName": 'Johanson', "jobTitle": 'Owner', "address": '200 Somewhere Lane', "salary": 1000 },
+    { "id": 3, "firstName": 'Dudeskie', "lastName": 'Blunderbus', "jobTitle": 'Janitor', "address": '100 Somewhere Lane', "salary": 1000 },
+    { "id": 4, "firstName": 'Dog', "lastName": 'BountyHunter', "jobTitle": 'Bounty Hunter', "address": '300 Somewhere Lane', "salary": 1000 },
+    { "id": 5, "firstName": 'Johnny', "lastName": 'Goode', "jobTitle": 'Musician', "address": '400 Somewhere Lane', "salary": 1000 },
+    { "id": 6, "firstName": 'Fred', "lastName": 'WhatsHisFace', "jobTitle": 'Dont Even Know', "address": '600 Somewhere Lane', "salary": 1000 }
+  ]
+}
